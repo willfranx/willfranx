@@ -1,15 +1,15 @@
 # Hello there! 👋
 ![profile count](https://komarev.com/ghpvc/?username=willfranx&color=red)&nbsp;
 [![GitHub willfranx](https://img.shields.io/github/followers/willfranx?label=follow&style=social)](https://github.com/willfranx)&nbsp;
-### 👨🏻‍💻 &nbsp;About Me
-
-💻 &nbsp;My name is Wright! I'm currently working in Anchorage, Alaska as a software engineer.\
-🎓&nbsp;I recently graduated from Oregon State University (Bachelor of Science, Computer Science, Class of 2025).\
+## 👨🏻‍💻 &nbsp;About Me
+### My name is Wright!
+💻 &nbsp;I'm currently working in Anchorage, Alaska as a software engineer.\
+🎓 &nbsp;I recently graduated from Oregon State University (Bachelor of Science, Computer Science, Class of 2025).\
 🌱 &nbsp;I'm working on some certs and continued education in the fields of data engineering, systems, and cloud.\
 ✍️ &nbsp;In my free time, I play guitar, climb, bike, ski, write, and draw.\
-✉️ &nbsp;You can email me at [wright@wrightfranklin.com](mailto:wright@wrightfranklin.com).\
-📄 &nbsp;You can vitsit my [LinkedIn](https://www.linkedin.com/in/willfranx/) profile for more about my experience.
-
+📧 &nbsp;Feel free to email me at [wright@wrightfranklin.com](mailto:wright@wrightfranklin.com).\
+📄 &nbsp;You can also take a glance at my [LinkedIn](https://www.linkedin.com/in/willfranx/) profile for more about my experience.\
+🌐 &nbsp;Or, you can check out my [website](https://www.wrightfranklin.com/) to look at my resumé or see what I'm up to.
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -64,18 +64,5 @@ Collaboration:\
 
 ### 📫 &nbsp; Connect with me:
 <a href="https://www.linkedin.com/in/willfranx/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:wright@wrightfranklin.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-<!--
-**willfranx/willfranx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="mailto:wright@wrightfranklin.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;\
+🌐 <a href="https://wrightfranklin.com">Visit my website</a> &nbsp;
