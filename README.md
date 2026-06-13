@@ -1,3 +1,5 @@
+<img alt="GitHub Profile Banner" src="img/banner.png" width="850" />
+
 # Howdy! 👋
 ![profile count](https://komarev.com/ghpvc/?username=willfranx&color=red)&nbsp;
 [![GitHub willfranx](https://img.shields.io/github/followers/willfranx?label=follow&style=social)](https://github.com/willfranx)&nbsp;
